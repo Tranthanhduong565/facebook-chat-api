@@ -1,5 +1,5 @@
 {
-  "name": "facebook-chat-api",
+  "name": "fca-duongg",
   "version": "1.8.0",
   "description": "Facebook chat API that doesn't rely on XMPP.  Will NOT be deprecated April 30th 2015.",
   "scripts": {
